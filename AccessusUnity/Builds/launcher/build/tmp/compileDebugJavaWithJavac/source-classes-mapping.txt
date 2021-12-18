@@ -1,0 +1,2 @@
+com/ReVeraInc/Accessuss/BuildConfig.java
+ com.ReVeraInc.Accessuss.BuildConfig

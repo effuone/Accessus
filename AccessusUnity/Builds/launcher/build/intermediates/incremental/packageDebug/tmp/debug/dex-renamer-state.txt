@@ -1,0 +1,10 @@
+#Fri Dec 17 00:18:51 BDT 2021
+base.2=C\:\\Users\\777\\Desktop\\AccessusUnity\\Accessus\\AccessusUnity\\Builds\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+path.2=classes_0.dex
+base.1=C\:\\Users\\777\\Desktop\\AccessusUnity\\Accessus\\AccessusUnity\\Builds\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\777\\Desktop\\AccessusUnity\\Accessus\\AccessusUnity\\Builds\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

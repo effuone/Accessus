@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Physics/Lobby.unity
+    guid: 248256dec3244aa43b9ced08ed1f506a
+  - enabled: 1
     path: Assets/Scenes/Physics/ProjectileMotion.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9081a41ab1bcb6f4b9ca7ade7fb9aad6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ff4540a18f03cf34eb769e544f2e44e9, type: 2}
