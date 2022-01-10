@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Physics/Lobby.unity
+    path: Assets/Scenes/MCHS/Lobby.unity
     guid: 248256dec3244aa43b9ced08ed1f506a
   - enabled: 1
     path: Assets/Scenes/Physics/ProjectileMotion.unity

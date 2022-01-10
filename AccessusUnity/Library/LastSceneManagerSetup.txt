@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Physics/ProjectileMotion.unity
+- path: Assets/Scenes/MCHS/FireSimulation.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
